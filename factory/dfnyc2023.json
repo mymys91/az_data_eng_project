@@ -1,0 +1,9 @@
+{
+	"name": "dfnyc2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52b36496-5f57-48a6-8d2e-ff8058f28ecd",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
